@@ -1,4 +1,3 @@
-
 import { NgModule } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import { UniversalModule } from 'angular2-universal';
@@ -8,7 +7,7 @@ import { NavMenuComponent } from './components/navmenu/navmenu.component';
 import { HomeComponent } from './components/home/home.component';
 import { FetchDataComponent } from './components/fetchdata/fetchdata.component';
 import { CounterComponent } from './components/counter/counter.component';
-import {ProductsComponent} from './components/products/products.component';
+import { ProductsComponent } from './components/products/products.component';
 import { ShoppingcartService } from './components/shoppingcart/shoppingcart.service'
 import { ShoppingcartComponent } from './components/shoppingcart/shoppingcart.component'
 

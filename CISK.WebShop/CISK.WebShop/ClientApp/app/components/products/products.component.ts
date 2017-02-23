@@ -8,6 +8,7 @@ import { ShoppingcartService } from '../shoppingcart/shoppingcart.service'
     template: require('./products.component.html'),
     styles: [require('./products.component.css')]
 })
+
 export class ProductsComponent {
     public products: IProduct[];
 
